@@ -1,0 +1,17 @@
+{
+  "name": "fun-server",
+  "version": "0.0.0",
+  "description": "The node/express server for fun-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sheriffderek <derek@sheriffderek.consulting>",
+  "license": "ISC",
+  "private": false,
+  "dependencies": {
+    "mongo-db": "^1.0.2",
+    "passport": "^0.4.0",
+    "passport-http-bearer": "^1.0.1"
+  }
+}
